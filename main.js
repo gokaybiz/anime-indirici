@@ -1,2 +1,2 @@
 const inquirer = require('inquirer')
-const api = require('./api')
+const turkanime = require('./api/turkanime')
